@@ -8,10 +8,10 @@ class TwoSums {
                     break;
                 
                 if(nums[i] + nums[j] == target) {
-                z = i;
-                y = j;
-                break;
-            }
+                	z = i;
+                	y = j;
+                	break;
+            	}
             }
         }
         
